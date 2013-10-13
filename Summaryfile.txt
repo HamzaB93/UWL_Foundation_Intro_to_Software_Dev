@@ -8,3 +8,13 @@ adding commiting and pushing
 I edited the first file around 3 times.
 Continuing, I created a new random file to edit, and repeated my processes.
 
+Important commands
+mkdir. creates a directory or folder
+cd. changes the directory
+ls. shows a list
+
+The following is the order in which to upload the file to bb
+nano. to create a file
+git add (with filename). readys the file
+git commit -m "with a description.". acknowledges the changes
+git push origin master. this will upload the added file(s) to bb.
