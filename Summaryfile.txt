@@ -1,0 +1,10 @@
+Assignment 1: The method of using terminal and bit bucket
+
+I first created a repo on bitbucket.
+I then logged onto UWL ubuntu server.
+Next i created a new directory for myself and linked it to bb
+I then created a first file using nano and uploaded it to bitbucket by
+adding commiting and pushing
+I edited the first file around 3 times.
+Continuing, I created a new random file to edit, and repeated my processes.
+
