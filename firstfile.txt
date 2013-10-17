@@ -7,3 +7,5 @@ Another line for editing
 Added another line
 
 Last edit for this file
+
+Adding a line to test git diff

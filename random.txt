@@ -1,3 +1,5 @@
 This is brand new random file
 
 Adding a line for random
+
+I am adding another line to random to test a git diff.
