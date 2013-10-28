@@ -21,10 +21,14 @@ print w + e
 
 
 print "My own test"
-b = "People find %s really hard." % programming #this doesnt work for somereason??
+prog = "programming" 
+b = "People find %s really hard." % prog 
 do_not = "don't"
 practice = "practice"
 c = "They just %s do enough %s." % (do_not, practice) 
 
 print b
 print c
+
+
+
