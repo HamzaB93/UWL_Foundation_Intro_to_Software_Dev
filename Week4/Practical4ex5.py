@@ -1,4 +1,4 @@
-print "An area of a triangle is measred by multiplying its height by the width"
+print "An area of a rectangle is measred by multiplying its height by the width"
 print "Area = Height x Width"
 
 height = float(raw_input("Please enter a Height "))
