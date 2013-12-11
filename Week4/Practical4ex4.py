@@ -8,4 +8,4 @@ food = raw_input("What is your favourite food " +name+ "?")
 # it is a string within another string
 
 print "I like %s too" % food 
-# the user is replied to with the food they entered menioned
+# the user is replied to with the food they entered mentioned
