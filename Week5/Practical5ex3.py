@@ -1,3 +1,5 @@
+print "\033[1;32mProgram Working\033[1;m"
+
 name = raw_input("What is your name? ") # User is asked to input their name
 
 age = int(raw_input("How old are you " +name+ "? "))

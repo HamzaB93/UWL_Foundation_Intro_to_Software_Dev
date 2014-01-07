@@ -1,3 +1,6 @@
+print "\033[1;32mProgram Working\033[1;m"
+
+# variables that are needed
 daysperweek = 7 #days
 hoursperday = 24 #hours
 minutesperhour = 60 #mins

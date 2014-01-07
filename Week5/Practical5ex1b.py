@@ -1,3 +1,5 @@
+print "\033[1;32mProgram Working\033[1;m"
+
 print "I can tell you how fast you need to go within a certain time and distance"
 
 distance = float(raw_input("Enter how far you need to go in miles "))
