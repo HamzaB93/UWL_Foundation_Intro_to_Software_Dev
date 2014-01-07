@@ -1,3 +1,5 @@
+print "\033[1;32mProgram Working\033[1;m"
+
 print "An area of a rectangle is measred by multiplying its height by the width"
 print "Area = Height x Width" # quick description of how to calculate area
 

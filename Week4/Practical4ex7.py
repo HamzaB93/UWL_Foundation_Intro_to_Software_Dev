@@ -1,3 +1,5 @@
+print "\033[1;32mProgram Working\033[1;m"
+
 firstname = raw_input("What is your first name? ")
 secondname = raw_input("What is your second name? ")
 # the user is instructed to input their first and second name

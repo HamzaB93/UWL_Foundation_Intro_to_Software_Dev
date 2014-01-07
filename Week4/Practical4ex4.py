@@ -1,3 +1,5 @@
+print "\033[1;32mProgram Working\033[1;m"
+
 name = raw_input("What is your name?")
 print "Hello %s " % name
 # i instruct the user to enter their name with a raw input. it is assingned to the 
@@ -8,4 +10,4 @@ food = raw_input("What is your favourite food " +name+ "?")
 # it is a string within another string
 
 print "I like %s too" % food 
-# the user is replied to with the food they entered mentioned
+# the user is replied to with the food they mentioned
