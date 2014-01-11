@@ -1,3 +1,5 @@
+print "\033[1;32mProgram Working\033[1;m"
+
 hrsspnt = int(raw_input("So tell me, how long do you spend on the computer? "))
 # user is asked to enter how long they spend on the computer
 

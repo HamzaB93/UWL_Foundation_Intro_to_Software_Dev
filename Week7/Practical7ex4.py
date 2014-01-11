@@ -1,19 +1,16 @@
+print "\033[1;32mProgram Working\033[1;m"
+
 print "Want to do some maths?"
 
 n1 = float(raw_input("Enter any number you want "))
-n2 = float(raw_input("Now enter another number "))
-#user is instructed to enter 2 numbers
+#user is instructed to enter a number
 
-print "Now pick a function"
 # user is shown the list of functions they can pick from
-function = raw_input("""
-You can select from: 
-+  
--  
-*  
-or /  
-Type it in and press enter 
+function = raw_input("""Now pick a function. You can select from: 
++  -  *  or /  . Type it in and press enter 
 """)# the user must enter one of the funtion
+
+n2 = float(raw_input("Now enter another number ")) # user put 2nd number
 
 # variables are created using the functions in the list
 add = n1 + n2
