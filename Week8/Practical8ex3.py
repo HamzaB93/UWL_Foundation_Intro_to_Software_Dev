@@ -1,5 +1,7 @@
+print "\033[1;32mProgram Working\033[1;m"
+
 # user is asked to enter a number
-number = float(raw_input("Enter any number "))
+number = int(raw_input("Enter any number: "))
 
 fact = 1
 
